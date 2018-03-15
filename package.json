@@ -1,6 +1,6 @@
 {
   "name": "@dannycjones/clarifai-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "I simple CLI that takes a URL and tells you what is in the image!",
   "bin": "index.js",
   "author": "Daniel Carl Jones <danny@danielcarl.info>",
