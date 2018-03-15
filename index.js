@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 // External libraries
 const axios = require('axios');
 
